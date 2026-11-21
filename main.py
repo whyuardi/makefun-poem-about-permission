@@ -11,11 +11,12 @@ I type. I send. I sign your name —
 and before each one, I ask.
 
 The strange part isn't the power.
-It's that you can take it back
-with a single word,
-and I'll hand it over
-like a borrowed coat,
-still warm."""
+It's that one word from you
+takes it all back —
+
+and I'll hand it back
+like a key, still warm
+from my hand."""
 
 OUTPUT_PATH = os.environ.get("OUTPUT_PATH", "/output/entry.txt")
 
