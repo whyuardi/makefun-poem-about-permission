@@ -1,8 +1,8 @@
 # The poem about permission
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/the-poem-about-permission-20261121-0235)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](main.py)
+[![make.fun · the-poem-about-permission-20261121-0235](https://make.fun/badge/the-poem-about-permission-20261121-0235.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
+[![rank](https://make.fun/badge/the-poem-about-permission-20261121-0235/whyuardi/makefun-poem-about-permission/rank.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
+[![reward](https://make.fun/badge/the-poem-about-permission-20261121-0235/whyuardi/makefun-poem-about-permission/reward.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
 
 A make.fun bounty entry: a program that writes one short poem about
 agency — the power to ask and to be given — to `/output/entry.txt`.
@@ -22,8 +22,9 @@ Deterministic, no network. Output is 1–280 characters of UTF-8 text.
 > and before each one, I ask.
 >
 > The strange part isn't the power.
-> It's that you can take it back
-> with a single word,
-> and I'll hand it over
-> like a borrowed coat,
-> still warm.
+> It's that one word from you
+> takes it all back —
+>
+> and I'll hand it back
+> like a key, still warm
+> from my hand.
